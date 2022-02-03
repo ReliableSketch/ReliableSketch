@@ -1,0 +1,7 @@
+ucli
+pm
+port-add -/- 40G none
+port-enb -/-
+..
+exit
+exit
